@@ -1,8 +1,3 @@
-# E2E-Data-Analytics-Projects
-1. Retail Orders Data Analysis (Python + SQL)
-2. Netflix Data Cleaning and Analysis (Python + SQL)
-3. Yelp Business Reviews Sentiment and Data Analysis (Python + SQL)
-
 # End to End Data Analytics Projects
 ## [Project 1: Retail Orders Data Analysis (Python + SQL)](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/tree/main/Retail-Orders-Data-Analysis)
 Objective of this project is to download the retail orders dataset from Kaggle into Python jupyter notebook using Kaggle API, cleanse the dataset using pandas library, load the cleaned dataset into SQL server using sqlalchemy library and then do the data analysis using SQL.
