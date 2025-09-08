@@ -14,7 +14,7 @@
   
 ![](https://github.com/vermaparul85/Portfolio/blob/main/Images/Ecommerce-image.png)
 
-## [Project 2 - Students Performnace Data Analysis Project (Python + SQL)](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/tree/main/Student-Performance-Data-Analysis)
+## [Project 2 - Students Performance Data Analysis Project (Python + SQL)](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/tree/main/Student-Performance-Data-Analysis)
 **Project Overview:**
 <br>Objective of this project is to work with a real-world student performance dataset, performing data extraction, cleaning, analysis, and visualization to derive meaningful insights.
 * **Data Extraction:** Retrieved the dataset from Kaggle using the Kaggle API in Python.
