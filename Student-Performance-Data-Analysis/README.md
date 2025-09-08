@@ -1,5 +1,5 @@
 # [Students Performnace Data Analysis Project (Python + SQL)](https://github.com/vermaparul85/E2E-Data-Analytics-Projects/tree/main/Ecommerce-Data-Analysis)
-**Project Overview:**
+**Project Overview:** <br>
 Objective of this project is to work with a real-world student performance dataset, performing data extraction, cleaning, analysis, and visualization to derive meaningful insights.
 * **Data Extraction:** Retrieved the dataset from Kaggle using the Kaggle API in Python.
 * **Data Cleaning:** Utilized the Pandas library to clean and standardize column names for consistency.
